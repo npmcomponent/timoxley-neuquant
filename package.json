@@ -1,0 +1,8 @@
+{
+  "name": "timoxley-neuquant",
+  "description": "NeuQuant Neural-Net Quantization Algorithm",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
+}
